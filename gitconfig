@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = vojtech.matous@gmail.com
+	email = vojtamatous@seznam.cz
 	name = Vojtech Matous
