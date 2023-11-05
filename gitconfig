@@ -51,4 +51,6 @@
   rebase = false
 [user]
 	email = vojtamatous@seznam.cz
-	name = Vojtech Matous
+	name = vojtech matous
+[init]
+	templatedir = /Users/voi_tisek/.git_templates
