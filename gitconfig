@@ -50,7 +50,7 @@
 [pull]
   rebase = false
 [user]
-	email = vojtamatous@seznam.cz
+	email = vojtech.matous@gmail.com
 	name = vojtech matous
 [init]
 	templatedir = /Users/voi_tisek/.git_templates

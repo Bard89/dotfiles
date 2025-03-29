@@ -76,3 +76,4 @@ export PGGSSENCMODE="disable"
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 alias juicymo-flow="RBENV_VERSION='3.1.2' rbenv exec juicymo-flow"
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
